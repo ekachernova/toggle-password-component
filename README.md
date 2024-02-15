@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a basic component for toggle password between visible and non-visible state.
+This component based on next.js
+Icons have been taken from [heroicons.com]
 
 ## Getting Started
 
